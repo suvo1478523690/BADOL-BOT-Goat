@@ -1,3 +1,130 @@
-Remove all text add your fbstate 
-
-Bot modified Mohammad Badol
+[
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1763526824.427227,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ps_l",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".facebook.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "usida",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "eyJ2ZXIiOjEsImlkIjoiQXNsc3pxcjZoMThtaSIsInRpbWUiOjE3Mjk2Nzc1NTV9"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1764312145.86626,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "datr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "IV4aZ9w_onIJa8ITNJktfOfJ"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1737528145.865141,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "fr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "14NnakxRMoepJ3CBI.AWXbNgZh0FwF1ftg-q8QYbuZKCg.BnGl4r..AAA.0.0.BnGl4r.AWWHXQ3df6g"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1761288145.865211,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "xs",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "44%3A5pMrxzZRUR5tgw%3A2%3A1729781277%3A-1%3A-1%3A%3AAcWT-aOlcGHkv9Q9fNUrOF7-FYpjG2_V7ujyi8gUMA"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1761288145.86498,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "c_user",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "61566877902935"
+    },
+    {
+        "domain": ".facebook.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "presence",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729752148234%2C%22v%22%3A1%7D"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1763526824.427257,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ps_n",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1764312134.912257,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sb",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "-UoOZ_Zzsg-v11lUO7aZLU7T"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1730356944,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "wd",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1366x641"
+    }
+]
